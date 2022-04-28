@@ -1,0 +1,20 @@
+{
+  "name": "4us-app",
+  "version": "1.0.0",
+  "description": "Movile application developed with Expo-Cli React Native + Node.js/JDBC Driver (MySql DB)\r Further information will be added to thi regard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielR-spec/4Us-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielR-spec/4Us-APP/issues"
+  },
+  "homepage": "https://github.com/DanielR-spec/4Us-APP#readme"
+}
