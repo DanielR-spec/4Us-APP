@@ -3,6 +3,9 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   console.log("App")
+  console.log("App")
+  console.log("App")
+  console.log("App")
   return (
     <View style={styles.container}>
       <Text>Hola Daniel</Text>
